@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+google-genai
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+pypdf
+pillow
